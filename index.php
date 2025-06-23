@@ -1,4 +1,5 @@
 <?php
+/*
     include 'ListaDeItens.php';
     
     if(isset($_GET['suco'])){
@@ -18,7 +19,7 @@
             $json = $listaDeItens[2];
         break;
     }
-
-    echo $json;
+*/
+    echo oie;
 
 ?>
